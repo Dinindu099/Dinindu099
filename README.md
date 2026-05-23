@@ -1,8 +1,14 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Dinindu Thathsara</h1>
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Hi 👋, I'm Dinindu Thathsara</h1>
+
 <h3 align="center">I’m currently learning</h3>
+<p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center">
+</picture></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinindu099&label=Profile%20views&color=0e75b6&style=flat" alt="dinindu099" /> </p>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 300px></picture>
+<br>
 
 - 🌱 I’m currently learning **object-oriented programming with Java, data analysis, and web development while exploring how IT integrates with economics.**
 
@@ -19,7 +25,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/https://www.instagram.com/diniduthathsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.instagram.com/diniduthathsara/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/diniduthathsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diniduthathsara/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/dinindu-thathsara-741929296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dinindu-thathsara-741929296" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1ymhyglhik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1ymhyglhik/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@diniduthathsara2957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@diniduthathsara2957" height="30" width="40" /></a>
@@ -37,3 +43,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinindu099" alt="dinindu099" /></a> </p>
 
 
+<br>
+
+<h3 align="center">Support:</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-username"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
