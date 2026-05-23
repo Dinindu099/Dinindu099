@@ -43,10 +43,3 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinindu099" alt="dinindu099" /></a> </p>
 
 
-<br>
-
-<h3 align="center">Support:</h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
